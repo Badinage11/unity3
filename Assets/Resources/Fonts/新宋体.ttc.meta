@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9a1b7da1ddb5b4e488266e54d2748895
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SimSun
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a0b6a061e4bca404596876993ee4f98d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
