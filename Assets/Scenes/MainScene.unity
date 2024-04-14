@@ -159,12 +159,14 @@ MonoBehaviour:
   otherScenesBackBtn: {fileID: 1464596617}
   oneSceneBtn: {fileID: 148709560}
   twoSceneBtn: {fileID: 572467418}
+  threeSceneBtn: {fileID: 0}
   helpBtn: {fileID: 2022756263}
   helpPanel: {fileID: 1447483292}
   helpBackBtn: {fileID: 851518761}
   creditsBtn: {fileID: 687099770}
   creditsPanel: {fileID: 1531383415}
   creditsBackBtn: {fileID: 1433843716}
+  anim: {fileID: 0}
 --- !u!4 &215240
 Transform:
   m_ObjectHideFlags: 0
