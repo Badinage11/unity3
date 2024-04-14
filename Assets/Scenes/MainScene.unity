@@ -159,12 +159,14 @@ MonoBehaviour:
   otherScenesBackBtn: {fileID: 1464596617}
   oneSceneBtn: {fileID: 148709560}
   twoSceneBtn: {fileID: 572467418}
+  threeSceneBtn: {fileID: 0}
   helpBtn: {fileID: 2022756263}
   helpPanel: {fileID: 1447483292}
   helpBackBtn: {fileID: 851518761}
   creditsBtn: {fileID: 687099770}
   creditsPanel: {fileID: 1531383415}
   creditsBackBtn: {fileID: 1433843716}
+  anim: {fileID: 0}
 --- !u!4 &215240
 Transform:
   m_ObjectHideFlags: 0
@@ -9634,7 +9636,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 120}
+  m_AnchoredPosition: {x: -0, y: 120}
   m_SizeDelta: {x: 400, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1507135868
@@ -12401,7 +12403,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -120}
+  m_AnchoredPosition: {x: 14, y: -120}
   m_SizeDelta: {x: 400, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2022756263
